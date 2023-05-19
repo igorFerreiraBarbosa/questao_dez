@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="decima questao automation suite">
+	<test name="decima questao test cases">
+		<classes>
+			<class name="decima.questao.testing.GooglePageTest"></class>
+			<class name="decima.questao.testing.CarreiraPageTest"></class>
+			<class name="decima.questao.testing.VagasPageTest"></class>
+		</classes>
+	</test>
+</suite>

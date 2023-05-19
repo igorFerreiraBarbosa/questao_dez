@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-19T14:39:12 BRT" name="decima questao automatio suite" finished-at="2023-05-19T14:41:34 BRT" duration-ms="141641">
+    <groups>
+    </groups>
+    <test started-at="2023-05-19T14:39:12 BRT" name="decima questao test cases" finished-at="2023-05-19T14:41:34 BRT" duration-ms="141641">
+      <class name="decima.questao.testing.VagasPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:decima.questao.testing.VagasPageTest@3e27aa33]" started-at="2023-05-19T14:40:55 BRT" name="setUp" finished-at="2023-05-19T14:41:20 BRT" duration-ms="24970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateSearchForArchitectOpportunty()[pri:0, instance:decima.questao.testing.VagasPageTest@3e27aa33]" started-at="2023-05-19T14:41:20 BRT" name="validateSearchForArchitectOpportunty" finished-at="2023-05-19T14:41:33 BRT" duration-ms="13361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchForArchitectOpportunty -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:decima.questao.testing.VagasPageTest@3e27aa33]" started-at="2023-05-19T14:41:33 BRT" name="tearDown" finished-at="2023-05-19T14:41:34 BRT" duration-ms="363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- decima.questao.testing.VagasPageTest -->
+      <class name="decima.questao.testing.GooglePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:decima.questao.testing.GooglePageTest@272113c4]" started-at="2023-05-19T14:39:12 BRT" name="setUp" finished-at="2023-05-19T14:39:39 BRT" duration-ms="26745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="googleTitleTest()[pri:0, instance:decima.questao.testing.GooglePageTest@272113c4]" started-at="2023-05-19T14:39:39 BRT" name="googleTitleTest" finished-at="2023-05-19T14:39:39 BRT" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:decima.questao.testing.GooglePageTest@272113c4]" started-at="2023-05-19T14:39:39 BRT" name="tearDown" finished-at="2023-05-19T14:39:39 BRT" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:decima.questao.testing.GooglePageTest@272113c4]" started-at="2023-05-19T14:39:39 BRT" name="setUp" finished-at="2023-05-19T14:40:04 BRT" duration-ms="24795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateFirstLinkTest()[pri:0, instance:decima.questao.testing.GooglePageTest@272113c4]" started-at="2023-05-19T14:40:04 BRT" name="validateFirstLinkTest" finished-at="2023-05-19T14:40:15 BRT" duration-ms="11270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFirstLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:decima.questao.testing.GooglePageTest@272113c4]" started-at="2023-05-19T14:40:15 BRT" name="tearDown" finished-at="2023-05-19T14:40:15 BRT" duration-ms="400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- decima.questao.testing.GooglePageTest -->
+      <class name="decima.questao.testing.CarreiraPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:decima.questao.testing.CarreiraPageTest@750e2b97]" started-at="2023-05-19T14:40:15 BRT" name="setUp" finished-at="2023-05-19T14:40:40 BRT" duration-ms="24921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateCarreiraPageTest()[pri:0, instance:decima.questao.testing.CarreiraPageTest@750e2b97]" started-at="2023-05-19T14:40:40 BRT" name="validateCarreiraPageTest" finished-at="2023-05-19T14:40:54 BRT" duration-ms="14130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarreiraPageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:decima.questao.testing.CarreiraPageTest@750e2b97]" started-at="2023-05-19T14:40:54 BRT" name="tearDown" finished-at="2023-05-19T14:40:55 BRT" duration-ms="376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- decima.questao.testing.CarreiraPageTest -->
+    </test> <!-- decima questao test cases -->
+  </suite> <!-- decima questao automatio suite -->
+</testng-results>
