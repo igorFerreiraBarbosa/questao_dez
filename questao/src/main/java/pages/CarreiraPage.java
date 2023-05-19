@@ -22,6 +22,7 @@ public class CarreiraPage extends BaseTest {
 		for(String window: driver.getWindowHandles()) {
 			if(!originalWindow.contentEquals(window)) {
 				driver.switchTo().window(window);
+				break;
 			}
 		}
 	}
